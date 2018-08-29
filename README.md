@@ -1,4 +1,5 @@
-step
+steps
+	
 	1. install fibos
 	
 	2. cd ./
